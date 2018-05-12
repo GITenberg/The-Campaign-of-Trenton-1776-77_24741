@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '26710'
     url: http://www.gutenberg.org/2009/agents/26710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24741#The-Campaign-of-Trenton-1776-77
 gutenberg_bookshelf: United States
 gutenberg_issued: '2008-03-03'
 gutenberg_type: Text
