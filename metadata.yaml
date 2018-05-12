@@ -1,0 +1,30 @@
+_repo: The-Campaign-of-Trenton-1776-77_24741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Drake, Samuel Adams
+    alias: Drake, Samuel A.
+    birthdate: 1833
+    deathdate: 1905
+    gutenberg_agent_id: '26710'
+    url: http://www.gutenberg.org/2009/agents/26710
+description: ''
+gutenberg_bookshelf: United States
+gutenberg_issued: '2008-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24741'
+  lccn: 02004484
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E201'
+- !lcsh 'Trenton, Battle of, Trenton, N.J., 1776'
+- !lcsh 'New Jersey -- History -- Revolution, 1775-1783'
+title: The Campaign of Trenton 1776-77
+url: http://www.gutenberg.org/ebooks/24741
